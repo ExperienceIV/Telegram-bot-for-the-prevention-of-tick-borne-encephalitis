@@ -43,13 +43,11 @@ Its primary mission is to make reliable medical prevention information accessibl
 
 ---
 
-## 📱 Bot Interface Preview
+## 📱 Bot Interface Showcase
 
-<p align="center">
-<img src="https://via.placeholder.com/250x500.png?text=Telegram+Bot+Screenshot+1" width="23%" />
-<img src="https://via.placeholder.com/250x500.png?text=Telegram+Bot+Screenshot+2" width="23%" />
-<img src="https://via.placeholder.com/250x500.png?text=Telegram+Bot+Screenshot+3" width="23%" />
-</p>
+<div align="center">
+  <img src="./images/tick_showcase.png" width="95%" />
+</div>
 
 ---
 
